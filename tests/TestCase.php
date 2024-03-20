@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository\Test;
+namespace Osiom\Repository\Test;
 
 use Mockery;
 use PHPUnit\Framework\TestCase as PHPUnitTestCase;
