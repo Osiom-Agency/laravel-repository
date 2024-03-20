@@ -1,10 +1,10 @@
 <?php
 
-namespace Torann\LaravelRepository\Test\Stubs;
+namespace Osiom\Repository\Test\Stubs;
 
 use Mockery;
 use Illuminate\Database\Eloquent\Model;
-use Torann\LaravelRepository\Repository;
+use Osiom\Repository\Repository;
 
 class TestRepository extends Repository
 {
