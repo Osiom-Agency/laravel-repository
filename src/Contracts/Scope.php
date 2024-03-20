@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository\Contracts;
+namespace Osiom\Repository\Contracts;
 
 use Illuminate\Database\Eloquent\Builder;
 
