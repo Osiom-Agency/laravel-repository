@@ -1,9 +1,9 @@
 <?php
 
-namespace Torann\LaravelRepository\Scopes;
+namespace Osiom\Repository\Scopes;
 
 use Illuminate\Database\Eloquent\Builder;
-use Torann\LaravelRepository\Contracts\Repository;
+use Osiom\Repository\Contracts\Repository;
 
 class OrderBy extends Scope
 {
