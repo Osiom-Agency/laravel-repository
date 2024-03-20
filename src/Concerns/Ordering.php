@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository\Concerns;
+namespace Osiom\Repository\Concerns;
 
 use Illuminate\Support\Arr;
 use Illuminate\Database\Eloquent\Builder;
