@@ -1,9 +1,9 @@
 <?php
 
-namespace Torann\LaravelRepository\Test\Repositories;
+namespace Osiom\Repository\Test\Repositories;
 
 use Illuminate\Support\Collection;
-use Torann\LaravelRepository\Test\TestCase;
+use Osiom\Repository\Test\TestCase;
 
 class RepositoryTest extends TestCase
 {
