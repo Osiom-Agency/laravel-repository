@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository;
+namespace Osiom\Repository;
 
 use Closure;
 use BadMethodCallException;
@@ -8,8 +8,8 @@ use Illuminate\Support\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
-use Torann\LaravelRepository\Exceptions\RepositoryException;
-use Torann\LaravelRepository\Contracts\Repository as RepositoryContract;
+use Osiom\Repository\Exceptions\RepositoryException;
+use Osiom\Repository\Contracts\Repository as RepositoryContract;
 
 abstract class Repository implements RepositoryContract
 {
