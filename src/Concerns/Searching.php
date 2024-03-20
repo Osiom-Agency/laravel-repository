@@ -1,9 +1,9 @@
 <?php
 
-namespace Torann\LaravelRepository\Concerns;
+namespace Osiom\Repository\Concerns;
 
 use Illuminate\Database\Eloquent\Builder;
-use Torann\LaravelRepository\Contracts\Scope;
+use Osiom\Repository\Contracts\Scope;
 
 trait Searching
 {
