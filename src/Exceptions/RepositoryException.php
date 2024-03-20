@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository\Exceptions;
+namespace Osiom\Repository\Exceptions;
 
 class RepositoryException extends \Exception
 {
