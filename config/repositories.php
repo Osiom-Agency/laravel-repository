@@ -42,7 +42,7 @@ return [
      */
 
     'scopes' => [
-        'search' => 'Torann\LaravelRepository\Scopes\Search',
-        'order_by' => 'Torann\LaravelRepository\Scopes\OrderBy',
+        'search' => 'Osiom\Repository\Scopes\Search',
+        'order_by' => 'Osiom\Repository\Scopes\OrderBy',
     ],
 ];
