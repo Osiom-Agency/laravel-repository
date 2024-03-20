@@ -1,8 +1,8 @@
 <?php
 
-namespace Torann\LaravelRepository\Scopes;
+namespace Osiom\Repository\Scopes;
 
-abstract class Scope implements \Torann\LaravelRepository\Contracts\Scope
+abstract class Scope implements \Osiom\Repository\Contracts\Scope
 {
     /**
      * {@inheritDoc}
