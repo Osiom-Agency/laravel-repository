@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository;
+namespace Osiom\Repository;
 
 use Illuminate\Support\ServiceProvider;
 
