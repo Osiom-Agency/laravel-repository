@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelRepository\Concerns;
+namespace Osiom\Repository\Concerns;
 
 use Closure;
 use Carbon\Carbon;
